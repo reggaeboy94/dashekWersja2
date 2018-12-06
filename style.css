@@ -5,7 +5,7 @@ body{
 }
 
 html,body{
-	background: url("images/bgTheme3.jpg");
+	background: url("images/bgTheme4.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: center;
@@ -20,7 +20,7 @@ h5{
 }
 .navbar1{
 	background-color: black;
-	background: rgba(0,0,0,0.6);
+	background: rgba(0,0,0,0.7);
 }
 
 
@@ -66,7 +66,7 @@ h5{
 
 .link{
 	width: 180px;
-	top:120px;
+	top:150px;
 }
 
 .pagemo{
@@ -87,7 +87,8 @@ color: white;
 }
 
 .footer-content{
-	background:grey;
+	background:black;
+	opacity:0.9;
 }
 
 .copyright{
