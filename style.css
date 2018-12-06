@@ -43,10 +43,11 @@ h5{
 }
 
 .btn-outline-primary{
-	border-color: white;
-	border:solid;
-	color: white;
+	border-width: 0px;
+	color:#343a40;
 	font-weight: bold;
+	background: rgba(248, 249, 250, 0.5);
+	opacity:0.9;
 }
 
 
